@@ -7,6 +7,7 @@
   ![Static Badge](https://img.shields.io/badge/Spring%20Boot-9fa8da?style=for-the-badge&logo=springboot&logoColor=9fa8da&labelColor=fff59d)
   ![Static Badge](https://img.shields.io/badge/MySql-fff59d?style=for-the-badge&logo=mysql&logoColor=black&labelColor=d1c4e9)
   ![Static Badge](https://img.shields.io/badge/PostgreSql-f3e5f5?style=for-the-badge&logo=postgresql&logoColor=f3e5f5&labelColor=90a4ae)
+  ![Static Badge](https://img.shields.io/badge/Postman-e8eaf6?style=for-the-badge&logo=postman&logoColor=e8eaf6&labelColor=ff5722)
 
   ![Static Badge](https://img.shields.io/badge/Version-1.0-ffebee?style=for-the-badge&logoColor=ff5722&labelColor=ce93d8)
   ![Static Badge](https://img.shields.io/badge/Status-TERMINADO-e8f5e9?style=for-the-badge&logoColor=ff5722&labelColor=f48fb1)
