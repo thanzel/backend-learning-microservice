@@ -41,7 +41,7 @@ Puedes usar postman para probar los endpoint, por ejemplo:
 
 <div align="center">
   
-<img src="https://github.com/user-attachments/assets/c0f135e6-84a7-474a-a59e-a00be7eb8d82" alt="Diagrama de Arquitectura" width="200" />
+<img src="https://github.com/user-attachments/assets/c0f135e6-84a7-474a-a59e-a00be7eb8d82" alt="Diagrama de Arquitectura" width="300" />
 
 </div> 
     
