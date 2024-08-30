@@ -1,5 +1,5 @@
+![Banner de Linkedin Fondo Simple Beige  (2)](https://github.com/user-attachments/assets/da95e2a9-efb4-4680-ac3f-067a21094e81)
 
-![Banner de Linkedin Fondo Simple Beige ](https://github.com/user-attachments/assets/e7c76fbb-f031-4f44-b939-774f8656545a)
 
 <div align="center">
   
@@ -49,7 +49,6 @@ Recuerda que el puerto lo puedes ver en Eureka
     
 ## Desarrollador
 
-[Yenny Chipamo](https://www.linkedin.com/in/yenny-chipamo/)
 * Software Developer - Backend Java Jr. - Spring Boot
 * FullStack Junior Developer Jr.: Javascript - JQuery - Typescript - HTML - CSS - Bootstrap
 
