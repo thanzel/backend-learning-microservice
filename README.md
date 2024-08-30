@@ -43,7 +43,7 @@ Recuerda que el puerto lo puedes ver en Eureka
 
 <div align="center">
   
-<img src="https://github.com/user-attachments/assets/c0f135e6-84a7-474a-a59e-a00be7eb8d82" alt="Diagrama de Arquitectura" width="300" />
+<img src="https://github.com/user-attachments/assets/638c83f4-bfe4-4378-af7b-6e2250a4b29c" alt="Diagrama de Arquitectura" width="300" />
 
 </div> 
     
