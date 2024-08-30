@@ -37,7 +37,9 @@ Puedes usar postman para probar los endpoint, por ejemplo:
 
 - Get http://localhost:9090/api/course/all
 - Get http://localhost:9090/api/course/search-student/1
+- Get http://localhost:8090/api/student/all
 
+Recuerda que el puerto lo puedes ver en Eureka
 
 <div align="center">
   
